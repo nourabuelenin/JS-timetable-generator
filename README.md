@@ -1,5 +1,8 @@
 # Timetable Generator - Port Said University
 
+## Demo
+![Timetable Generator Demo](./JS_project.gif)
+
 ## Overview
 The Timetable Generator is a web-based application designed to simplify course scheduling for faculty members and students at Port Said University's Faculty of Engineering. It provides an intuitive interface for creating conflict-free timetables, integrating with the university's course database, and offering features like conflict detection, easy scheduling, and export options.
 
